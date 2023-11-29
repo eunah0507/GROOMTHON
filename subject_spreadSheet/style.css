@@ -1,0 +1,57 @@
+#excelFileExport {
+  width: 150px;
+  height: 30px;
+  background: #08ab47;
+  color: white;
+  border: 1px solid rgb(77, 77, 77);
+  border-radius: 10px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    background: rgb(77, 77, 77);
+    color: #fff;
+  }
+}
+#tableData {
+  border-collapse: separate;
+  border-spacing: 0;
+  text-align: left;
+  line-height: 1.5;
+  border-top: 1px solid #d5d5d5;
+  border-left: 1px solid #d5d5d5;
+  margin: 20px 10px;
+}
+.thDefault {
+  width: 150px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  border-right: 1px solid #d5d5d5;
+  border-bottom: 1px solid #d5d5d5;
+  border-top: 1px solid #d5d5d5;
+  border-left: 1px solid #d5d5d5;
+  background: #dedede;
+}
+.thClick {
+  width: 150px;
+  padding: 10px;
+  font-weight: bold;
+  vertical-align: top;
+  border-right: 1px solid #c6d3d6;
+  border-bottom: 1px solid #c6d3d6;
+  border-top: 1px solid #c6d3d6;
+  border-left: 1px solid #c6d3d6;
+  background: #aed8e6;
+  color: white;
+}
+
+#tableData td {
+  width: 350px;
+  padding: 10px;
+  vertical-align: top;
+  border-right: 1px solid #d5d5d5;
+  border-bottom: 1px solid #d5d5d5;
+}
