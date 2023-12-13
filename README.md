@@ -82,10 +82,6 @@
 </div>
 <br>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Eunah's </h2> <br>
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunah0507&layout=compact">
 </div>
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 매일 알고리즘 풀기 </h2> <br>
