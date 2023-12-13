@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=GROOMTHON&fontSize=90" />
-2023.11.10 ~ 2024.05.23 구름톤 풀스택 트레이닝 4회차 수강생 정은아입니다.
+
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023.11.10 ~ 2024.05.23 구름톤 풀스택 트레이닝 4회차 수강생 정은아입니다.</h4>
+
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
 <div>
