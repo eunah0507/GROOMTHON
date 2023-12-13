@@ -16,9 +16,11 @@
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> 
 </div>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Velog </h2> <br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Velog & Algorithm </h2> <br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eunah)](https://velog.io/@eunah)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunah0507)](https://solved.ac/eunah0507)
 
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 구름톤 풀스택 4회차 과제들 </h2>
@@ -83,8 +85,6 @@
 <br>
 
 </div>
-<br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 매일 알고리즘 풀기 </h2> <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunah0507)](https://solved.ac/eunah0507)
+
+
