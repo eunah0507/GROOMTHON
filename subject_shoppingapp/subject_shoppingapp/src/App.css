@@ -1,0 +1,11 @@
+/* Navbar */
+.navbar-nav a{
+  font-size: 18px;
+}
+.card-text{
+  font-size:large;
+  margin-top: 1rem;
+}
+.card-btn{
+  margin: 1rem 0;
+}
