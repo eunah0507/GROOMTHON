@@ -21,8 +21,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Velog & Algorithm </h2> <br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eunah)](https://velog.io/@eunah)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunah0507)](https://solved.ac/eunah0507)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunah0507&layout=compact">
 
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 구름톤 풀스택 4회차 과제들 </h2>
@@ -92,7 +91,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Eunah </h2> <br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunah0507&layout=compact">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunah0507)](https://solved.ac/eunah0507)
 <img src="https://github-readme-stats.vercel.app/api?username=eunah0507&bg_color=180,343f56,00000000&title_color=ffffff&text_color=ffffff"
          /></div>
 <br>
