@@ -91,7 +91,8 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Eunah </h2> <br>
 
-<div style="align:center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunah0507&layout=compact">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=eunah0507&bg_color=180,343f56,00000000&title_color=ffffff&text_color=ffffff"
+         /></div>
 <br>
